@@ -1,6 +1,6 @@
 # fabrica_info
 
-## Project setup
+## 
 ```
 npm install
 ```

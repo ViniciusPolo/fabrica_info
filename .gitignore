@@ -47,3 +47,4 @@ Homestead.yaml
 npm-debug.log
 workspace.code-workspace
 yarn-error.log
+.laradock
